@@ -1,0 +1,2 @@
+C:\Unity\RosSteamVR\RosSteamVR\obj\Release\SteamVR_Editor.csprojAssemblyReference.cache
+C:\Unity\RosSteamVR\RosSteamVR\obj\Release\SteamVR_Editor.csproj.CoreCompileInputs.cache
