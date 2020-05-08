@@ -270,43 +270,43 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json.Bson">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/External/Newtonsoft.Json.Bson.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/External/Newtonsoft.Json.Bson.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/External/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/External/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/External/websocket-sharp.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/External/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Bcl.AsyncInterfaces">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
     <Reference Include="System.Buffers">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Buffers.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Buffers.dll</HintPath>
     </Reference>
     <Reference Include="System.Memory">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Memory.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Memory.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="System.Text.Encodings.Web">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Text.Encodings.Web.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Text.Encodings.Web.dll</HintPath>
     </Reference>
     <Reference Include="System.Text.Json">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Text.Json.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Text.Json.dll</HintPath>
     </Reference>
     <Reference Include="System.Threading.Channels">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Threading.Channels.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Threading.Channels.dll</HintPath>
     </Reference>
     <Reference Include="System.Threading.Tasks.Extensions">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Threading.Tasks.Extensions.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/RosSharp/Plugins/Microsoft/System.Threading.Tasks.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -663,16 +663,16 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Unity/RosSteamVR/RosSteamVR/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Unity/VRROS/RosSteamVR/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
